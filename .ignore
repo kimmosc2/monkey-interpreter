@@ -1,1 +1,6 @@
+# IDE settings
 /.idea
+
+# binary file
+*.exe
+*.out
